@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "command": "more_text", 
+                "caption": "More Text"
+            }
+        ]
+    }
+]
