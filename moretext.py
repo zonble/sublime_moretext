@@ -8,7 +8,7 @@ class MoreTextAPICall(threading.Thread):
 
 	def run(self):
 		import json, urllib2
-		moreJSURL = 'http://more.handlino.com//sentences.json'
+		moreJSURL = 'http://more.handlino.com/sentences.json'
 		try:
 			r = urllib2.urlopen(moreJSURL, timeout=5).read()
 			j = json.loads(r)
