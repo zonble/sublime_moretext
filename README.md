@@ -1,6 +1,8 @@
 Sublime MoreText
 ================
 
+**Note: MoreText (more.handlino.com) is no longer available — the service has been shut down and this plug-in no longer works.**
+
 *Sublime MoreText* is a tool which helps you to insert Chinese Lorem
 Ipsum text from [MoreText](http://more.handlino.com/api), a web
 service provided by [Handlino](http://handlino.com), while editing
